@@ -1,0 +1,50 @@
+[33mcommit c66e2f5ea938a65bbe735907e6da8701cbb89f34[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-xyz[m[33m)[m
+Author: Crown Mkhombo (CR) <crown@gmail.com>
+Date:   Thu Dec 9 14:49:05 2021 +0200
+
+    Crown edited the index.html file
+
+[33mcommit 76be53f10c3ac90b9c2803f42061bc66f4b848b3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6e50218 c5ace93
+Author: cmkhombo <54800754+cmkhombo@users.noreply.github.com>
+Date:   Thu Dec 9 11:19:09 2021 +0200
+
+    Merge pull request #1 from cmkhombo/feature-a
+    
+    Crown created untils file
+
+[33mcommit c5ace93b1f4212faf0cac3c24c4eccc278b20072[m[33m ([m[1;31morigin/feature-a[m[33m)[m
+Author: Crown Mkhombo (CR) <crown@gmail.com>
+Date:   Thu Dec 9 10:58:27 2021 +0200
+
+    Crown created untils file
+
+[33mcommit 6e50218b3f251745caf915e77213fa6b750f682b[m
+Author: cmkhombo <54800754+cmkhombo@users.noreply.github.com>
+Date:   Thu Dec 9 09:36:10 2021 +0200
+
+    Update main.go
+
+[33mcommit 716b18e560abcf1361c862595545c56b79cad563[m
+Author: cmkhombo <54800754+cmkhombo@users.noreply.github.com>
+Date:   Thu Dec 9 09:24:43 2021 +0200
+
+    Add files via upload
+
+[33mcommit 426736b13a030bdb17b2d1b4615b9956ebc90304[m
+Author: Crown Mkhombo (CR) <crown@gmail.com>
+Date:   Thu Dec 9 08:59:22 2021 +0200
+
+    added main fuction
+
+[33mcommit 8b22570cf17c993aa2b2c053e6ba74818e952ce3[m
+Author: Crown Mkhombo (CR) <crown@gmail.com>
+Date:   Thu Dec 9 06:35:53 2021 +0200
+
+    added console.log()
+
+[33mcommit eb7e0e0b6671b01444c278faf6061c14b20f9e83[m
+Author: Crown Mkhombo (CR) <crown@gmail.com>
+Date:   Thu Dec 9 06:30:58 2021 +0200
+
+    crown project added 3 files
